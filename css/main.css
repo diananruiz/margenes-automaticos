@@ -1,0 +1,20 @@
+.caja1 { 
+	padding: 20px 28px;
+	border: 20px solid #ffff33;  
+	margin: 0px;
+	width: 175px;
+	background-color: white; 
+}
+
+.caja2 {
+	padding: 20px 25px;
+	border: 20px solid #ffff33;  
+	margin-left: 520px;
+	width: 175px;
+	background-color: white;	
+}
+p { 
+	text-align: center;
+	font-size: 89%;
+	line-height: 1.1em;
+}
